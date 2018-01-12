@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>alpendohle.ch</title>
-    <link>http://example.org/</link>
+    <link>http://alpendohle.ch/</link>
     <description>Recent content on alpendohle.ch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
     <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://alpendohle.ch/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Impressum</title>
-      <link>http://example.org/impressum/</link>
+      <link>http://alpendohle.ch/impressum/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/impressum/</guid>
+      <guid>http://alpendohle.ch/impressum/</guid>
       <description>Kontakt Daniel W.
 Haftungsausschluss Der Autor übernimmt keinerlei Gewähr hinsichtlich der inhaltlichen Richtigkeit, Genauigkeit, Aktualität, Zuverlässigkeit und Vollständigkeit der Informationen.
 Haftungsansprüche gegen den Autor wegen Schäden materieller oder immaterieller Art, welche aus dem Zugriff oder der Nutzung bzw. Nichtnutzung der veröffentlichten Informationen, durch Missbrauch der Verbindung oder durch technische Störungen entstanden sind, werden ausgeschlossen.
