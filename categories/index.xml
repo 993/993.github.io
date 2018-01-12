@@ -10,5 +10,14 @@
 	<atom:link href="http://alpendohle.ch/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Informatik</title>
+      <link>http://alpendohle.ch/categories/informatik/</link>
+      <pubDate>Fri, 12 Jan 2018 07:41:03 +0100</pubDate>
+      
+      <guid>http://alpendohle.ch/categories/informatik/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
