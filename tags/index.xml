@@ -6,28 +6,9 @@
     <description>Recent content in Tags on alpendohle.ch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
-    <lastBuildDate>Fri, 12 Jan 2018 07:41:03 +0100</lastBuildDate>
     
 	<atom:link href="http://alpendohle.ch/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hugo</title>
-      <link>http://alpendohle.ch/tags/hugo/</link>
-      <pubDate>Fri, 12 Jan 2018 07:41:03 +0100</pubDate>
-      
-      <guid>http://alpendohle.ch/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>http://alpendohle.ch/tags/test/</link>
-      <pubDate>Fri, 12 Jan 2018 07:41:03 +0100</pubDate>
-      
-      <guid>http://alpendohle.ch/tags/test/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
